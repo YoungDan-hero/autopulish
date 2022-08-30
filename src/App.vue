@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="测试主分支"/>
+  <HelloWorld msg="测试主分支构建"/>
 </template>
 
 <script>
