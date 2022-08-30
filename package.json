@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "github-webhook-handler": "^1.0.0",
+    "http": "0.0.1-security",
     "vue": "^3.0.0"
   },
   "devDependencies": {
