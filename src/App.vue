@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="测试2"/>
+  <HelloWorld msg="测试自动打包构建"/>
 </template>
 
 <script>
