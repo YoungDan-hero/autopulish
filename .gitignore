@@ -2,7 +2,8 @@
 node_modules
 /dist
 auto.js
-
+Dockerfile
+.dockerignore
 # local env files
 .env.local
 .env.*.local
