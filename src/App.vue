@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="测试主分支构建"/>
+  <HelloWorld msg="肯德基疯狂星期四，v我50龙弟！！！！！"/>
 </template>
 
 <script>
